@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(47, 49, 54);
+    color: rgb(153, 170, 181);
+}
+#main{
+    text-align: center;
+    font-size: 30px;
+}
+.navegacion{
+    border: 1px solid rgb(64,68,65);
+
+}
+h1{
+    color:blueviolet;
+    text-align: center;
+}
+
+#fotosClima {
+    background-color: lightcyan;
+    margin: auto;
+    text-align: center;
+    }
+
+.imagenes{
+    width:200px;
+    height:200px;
+    padding: 100px;
+
+}
+
+
+
+
