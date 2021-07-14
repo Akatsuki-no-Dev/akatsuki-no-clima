@@ -1,0 +1,1 @@
+repositorio para probar en serio como trabajar en equipo haciendo una app del clima
